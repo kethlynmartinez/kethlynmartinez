@@ -11,7 +11,8 @@ Porto Alegre, RS.
 
 ## Projetos em destaque
 
-**MentorIA** — Protótipo de plataforma de mentoria para mulheres em tecnologia, com match por IA, agendamento e planos.
+**MentorIA** — Protótipo de plataforma de mentoria para mulheres em tecnologia, com match por IA e planos de mentoria.
+
 [Ver site](https://mentoria-tech.lovable.app) | [Código](https://github.com/kethlynmartinez/mentoria-tech)
 
 **CiberCards** — Flashcards de revisão de cibersegurança, com 223 cards em 6 temas e 3 níveis.
@@ -31,5 +32,4 @@ Porto Alegre, RS.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
