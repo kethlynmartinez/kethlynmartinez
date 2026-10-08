@@ -2,17 +2,14 @@
 
 ## Olá, eu sou a Kethlyn
 
-Trabalho com pesquisa de usuários, design de interfaces e desenvolvimento front-end. Gosto de entender o problema das pessoas antes de desenhar e de construir a solução até ela funcionar no navegador.
-
-Porto Alegre, RS.
+Trabalho com pesquisa de usuários, design de interfaces e desenvolvimento front-end. Gosto de entender o problema das pessoas antes de desenhar e de construir uma solução.
 
 - LinkedIn: [linkedin.com/in/kethlynmartinez](https://www.linkedin.com/in/kethlynmartinez/)
 - Contato: kethlyn.dev@gmail.com
 
 ## Projetos em destaque
 
-**MentorIA** — Protótipo de plataforma de mentoria para mulheres em tecnologia, com match por IA e planos de mentoria.
-
+**MentorIA** — Protótipo de plataforma de mentoria para mulheres em tecnologia, com match por IA e planos de mentoria. 
 [Ver site](https://mentoria-tech.lovable.app) | [Código](https://github.com/kethlynmartinez/mentoria-tech)
 
 **CiberCards** — Flashcards de revisão de cibersegurança, com 223 cards em 6 temas e 3 níveis.
