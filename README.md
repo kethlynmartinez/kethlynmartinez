@@ -9,11 +9,14 @@ Trabalho com pesquisa de usuários, design de interfaces e desenvolvimento front
 
 ## Projetos em destaque
 
-**MentorIA** — Protótipo de plataforma de mentoria para mulheres em tecnologia, com match por IA e planos de mentoria. 
+**Lume** — Plataforma de aprendizagem corporativa white-label: empresas publicam cursos, provas e certificados com a própria marca, e a equipe recebe lembretes pelo WhatsApp. Baseada em um produto que desenvolvi no estágio, da ideia no Figma à versão em React + TypeScript.
+[Ver demo](https://kethlynmartinez.github.io/plataforma-aprendizagem/) | [Código](https://github.com/kethlynmartinez/plataforma-aprendizagem)
+
+**MentorIA** — Protótipo de plataforma de mentoria para mulheres em tecnologia, com match por IA, assistente de carreira e planos de assinatura.
 [Ver site](https://mentoria-tech.lovable.app) | [Código](https://github.com/kethlynmartinez/mentoria-tech)
 
-**CiberCards** — Flashcards de revisão de cibersegurança, com 223 cards em 6 temas e 3 níveis.
-[Código](https://github.com/kethlynmartinez/cibercards)
+**CiberCards** — Flashcards de revisão de cibersegurança, com 224 cards em 6 temas e 3 níveis, progresso salvo no navegador e versão para celular.
+[Ver site](https://kethlynmartinez.github.io/cibercards/) | [Design no Figma](https://www.figma.com/design/eAI5jKjkyhQWHVtpndQ7NX) | [Código](https://github.com/kethlynmartinez/cibercards)
 
 ## Mais projetos de front-end
 
