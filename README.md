@@ -40,7 +40,7 @@ Cada case tem processo, decisões e resultados no portfólio.
 [Site](https://kethlynmartinez.github.io/boardgame-store/) · [Código](https://github.com/kethlynmartinez/boardgame-store)
 
 **[Este portfólio](https://kethlynmartinez.vercel.app)**. Site estático em HTML, CSS e JavaScript, em português e inglês, publicado na Vercel.<br>
-[Figma](figma.com/proto/SQOQteyFzk6fzMxaiLDKrn/Portfolio-Kethlyn-Martinez?node-id=0-1)
+[Figma](https://www.figma.com/proto/SQOQteyFzk6fzMxaiLDKrn/Portfolio-Kethlyn-Martinez?node-id=0-1)
 
 ## Ferramentas
 
