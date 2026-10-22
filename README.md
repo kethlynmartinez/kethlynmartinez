@@ -25,7 +25,7 @@ Cada case tem processo, decisões e resultados no portfólio.
 ### UX/UI Design e Front-end
 
 **[Sabiá](https://kethlynmartinez.vercel.app/case?c=sabia)**. Plataforma de treinamento corporativo com a marca de cada empresa cliente, da ideia ao front-end em React e TypeScript.<br>
-[Demo](https://kethlynmartinez.github.io/plataforma-aprendizagem/) · [Código](https://github.com/kethlynmartinez/plataforma-aprendizagem)
+[Demo](https://kethlynmartinez.github.io/sabia-plataforma/) · [Código](https://github.com/kethlynmartinez/sabia-plataforma)
 
 **[MentorIA](https://kethlynmartinez.vercel.app/case?c=mentoria)**. Startup de mentoria para mulheres em tecnologia, prototipada e testada em uma semana.<br>
 [Site](https://mentoria-tech.lovable.app) · [Código](https://github.com/kethlynmartinez/mentoria-tech)
