@@ -31,7 +31,7 @@ Cada case tem processo, decisões e resultados no portfólio.
 [Site](https://mentoria-tech.lovable.app) · [Código](https://github.com/kethlynmartinez/mentoria-tech)
 
 **[CiberCards](https://kethlynmartinez.vercel.app/case?c=cibercards)**. Material de estudo de cibersegurança em 224 flashcards, com progresso salvo e tema claro e escuro.<br>
-[Site](https://kethlynmartinez.github.io/cibercards/) · [Figma](https://www.figma.com/design/eAI5jKjkyhQWHVtpndQ7NX) · [Código](https://github.com/kethlynmartinez/cibercards)
+[Site](https://kethlynmartinez.github.io/cibercards/) · [Figma](https://www.figma.com/proto/eAI5jKjkyhQWHVtpndQ7NX/CiberCards?node-id=20-2&p=f&scaling=contain&content-scaling=fixed&page-id=4%3A2&starting-point-node-id=20%3A2&hide-ui=1) · [Código](https://github.com/kethlynmartinez/cibercards)
 
 **[Horta Fácil](https://kethlynmartinez.vercel.app/case?c=horta)**. Site para planejar hortas urbanas, com catálogo de 134 espécies. HTML, CSS e JavaScript.<br>
 [Site](https://kethlynmartinez.github.io/horta-facil/) · [Figma](https://www.figma.com/proto/XZM2zIkmlUjVVchYq7Xvcg/Horta-F%C3%A1cil---Mock-Site?node-id=3-2) · [Código](https://github.com/kethlynmartinez/horta-facil)
